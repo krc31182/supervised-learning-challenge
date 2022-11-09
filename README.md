@@ -1,6 +1,6 @@
 
 # Prediction
-My initial thought and prediction is that the logistic regression model will perform better simply because the outcome is binary.
+My initial thought and prediction is that the Random Forest model will perform better for this particular problem. The reasoning is that logistic regression returns the probability of an outcome where as random forest will return a definitive 0 or 1 outcome. In this assignment that will mean either 'approved' or 'not approved'. 
 
 
 
