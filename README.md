@@ -1,7 +1,6 @@
 
 # Prediction
-
-## My initial thought and prediction is that the logistic regression model will perform better simply because the outcome is binary.
+My initial thought and prediction is that the logistic regression model will perform better simply because the outcome is binary.
 
 
 
