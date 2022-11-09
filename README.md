@@ -1,3 +1,10 @@
+
+# Prediction
+
+## My initial thoughts are that the logistic regression model will perform better simply because the outcome is binary.
+
+
+
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan will be approved or not. 
